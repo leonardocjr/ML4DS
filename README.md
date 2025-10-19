@@ -19,6 +19,7 @@ Universidad de La Laguna (ULL)
 
 ### Duration
 60 contact hours | 162 total hours 
+
 The subject is scheduled for the winter semester, from October to January, with the mobility week in 
 the third week of January, according to the table below. 
 
