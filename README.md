@@ -40,7 +40,6 @@ The main objective is to develop skills and knowledge regarding several modern m
 - apply appropriate preprocessing to the data;
 - select and apply appropriate machine learning methods, and evaluate the quality of the models developed and interpret the results obtained.
 
-**Contents:**
 The contents of the course are:
 
 1. Introduction to big data, KDD process, and data life cycle
