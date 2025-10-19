@@ -1,4 +1,4 @@
-# ML4DS - Machine Learning For Data Science - Exercises
+# ML4DS - Machine Learning For Data Science
 Study of Intelligent Systems in BIP with the University of La Laguna (Spain)
 
 ## 1. BIP information 
