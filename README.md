@@ -1,5 +1,5 @@
 # Machine Learning For Data Science (ML4DS)
-Blended Intensive Program (BIP) in Machine Learning and Data Science with the **University of La Laguna** (Tenerife, Spain)
+Blended Intensive Program (BIP) in Machine Learning and Data Science with the **University of La Laguna** (Spain)
 
 ## 1. BIP information 
 ### Partner institutions and responsible lecturers
