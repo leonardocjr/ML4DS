@@ -1,17 +1,13 @@
-# ML4DS - Machine Learning For Data Science
-Study of Intelligent Systems in BIP with the University of La Laguna (Spain)
+# Machine Learning For Data Science (ML4DS)
+Blended Intensive Program (BIP) in Machine Learning and Data Science with the **University of La Laguna** (Tenerife, Spain)
 
 ## 1. BIP information 
 ### Partner institutions and responsible lecturers
-- HSB – Hochschule Bremen City University of Applied Sciences, Germany (Uta Bohnebeck 
-<uta.bohnebeck@hs-bremen.de>) 
+- HSB – Hochschule Bremen City University of Applied Sciences, Germany (Uta Bohnebeck <uta.bohnebeck@hs-bremen.de>) 
 - Polytechnic Institute of Bragança, Portugal (Rui Pedro Lopes <rlopes@ipb.pt>) 
-- Universidad de La Laguna, Spain (Juan Albino Méndez <jamendez@ull.edu.es>, Rafael Arnay 
-<rarnayde@ull.edu.es>)   
-- Hanze University of Applied Sciences, The Netherlands (Remi Thuss <r.m.thuss@pl.hanze.nl>, 
-Marieke Bouma <ma.bouma@pl.hanze.nl>)  
-- Federal Center for Technological Education Celso Suckow da Fonseca (Cefet/RJ), Brazil (Eduardo 
-Bezerra <ebezerra@cefet-rj.br>)
+- Universidad de La Laguna, Spain (Juan Albino Méndez <jamendez@ull.edu.es>, Rafael Arnay <rarnayde@ull.edu.es>)   
+- Hanze University of Applied Sciences, The Netherlands (Remi Thuss <r.m.thuss@pl.hanze.nl>, Marieke Bouma <ma.bouma@pl.hanze.nl>)  
+- Federal Center for Technological Education Celso Suckow da Fonseca (Cefet/RJ), Brazil (Eduardo Bezerra <ebezerra@cefet-rj.br>)
 
 ### Host (Winter Term 2025/26)
 Universidad de La Laguna (ULL) 
@@ -24,8 +20,7 @@ The subject is scheduled for the winter semester, from October to January, with 
 the third week of January, according to the table below. 
 
 ## 2. Description and contents of the course
-The BIP will have three months of virtual components to present the contents of the course. The main objective is to develop skills and knowledge regarding several modern machine learning techniques that have application in data science problems. 
-The program is structured in different sessions along the semester that cover:  
+The BIP will have three months of virtual components to present the contents of the course. The main objective is to develop skills and knowledge regarding several modern machine learning techniques that have application in data science problems. The program is structured in different sessions along the semester that cover:  
 - Data Science Process;
 - Machine learning basics;
 - Model selection and evaluation;
@@ -51,3 +46,9 @@ The contents of the course are:
 7. Advanced NN models for time series analysis
 8. Applications
 9. Further trends in AI. 
+
+## 3. Bibliography
+- Giuseppe Bonaccorso (2020): Mastering Machine Learning Algorithms. Expert techniques for  implementing popular machine learning algorithms, fine-tuning your models, and understanding how they work. 2nd Edition, Packt publishing limited. 
+- Géron, Aurélien (2023): Hands-on machine learning with Scikit-Learn, Keras, and TensorFlow. Concepts, tools, and techniques to build intelligent systems. Third edition. O'Reilly 
+- Jacob T. VanderPlas (2017): Python data science handbook. Essential tools for working with data. Sebastopol, CA: O'Reilly Media, Inc 
+- Ian Goodfellow et al. (2016). Deep Learning. Mit Press. 978-0262035613 
